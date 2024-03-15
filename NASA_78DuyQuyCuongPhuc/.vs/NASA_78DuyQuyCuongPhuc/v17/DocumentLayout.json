@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Moc\\Hoc tap\\OOP\\NASA_78DuyQuyCuongPhuc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF02B12-2DF9-48A1-9A02-85AAD1E1C124}|Chuong2\\Chuong2.vcxproj|F:\\Moc\\Hoc tap\\OOP\\NASA_78DuyQuyCuongPhuc\\Chuong2\\BaiTap2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9CF02B12-2DF9-48A1-9A02-85AAD1E1C124}|Chuong2\\Chuong2.vcxproj|solutionrelative:Chuong2\\BaiTap2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF02B12-2DF9-48A1-9A02-85AAD1E1C124}|Chuong2\\Chuong2.vcxproj|F:\\Moc\\Hoc tap\\OOP\\NASA_78DuyQuyCuongPhuc\\Chuong2\\temp_de_thi.ttn||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9CF02B12-2DF9-48A1-9A02-85AAD1E1C124}|Chuong2\\Chuong2.vcxproj|solutionrelative:Chuong2\\temp_de_thi.ttn||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF02B12-2DF9-48A1-9A02-85AAD1E1C124}|Chuong2\\Chuong2.vcxproj|F:\\Moc\\Hoc tap\\OOP\\NASA_78DuyQuyCuongPhuc\\Chuong2\\BaiTap1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9CF02B12-2DF9-48A1-9A02-85AAD1E1C124}|Chuong2\\Chuong2.vcxproj|solutionrelative:Chuong2\\BaiTap1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF02B12-2DF9-48A1-9A02-85AAD1E1C124}|Chuong2\\Chuong2.vcxproj|F:\\Moc\\Hoc tap\\OOP\\NASA_78DuyQuyCuongPhuc\\Chuong2\\de_thi.ttn||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9CF02B12-2DF9-48A1-9A02-85AAD1E1C124}|Chuong2\\Chuong2.vcxproj|solutionrelative:Chuong2\\de_thi.ttn||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "de_thi.ttn",
+              "DocumentMoniker": "F:\\Moc\\Hoc tap\\OOP\\NASA_78DuyQuyCuongPhuc\\Chuong2\\de_thi.ttn",
+              "RelativeDocumentMoniker": "Chuong2\\de_thi.ttn",
+              "ToolTip": "F:\\Moc\\Hoc tap\\OOP\\NASA_78DuyQuyCuongPhuc\\Chuong2\\de_thi.ttn",
+              "RelativeToolTip": "Chuong2\\de_thi.ttn",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-14T05:58:27.99Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaiTap1.cpp",
+              "DocumentMoniker": "F:\\Moc\\Hoc tap\\OOP\\NASA_78DuyQuyCuongPhuc\\Chuong2\\BaiTap1.cpp",
+              "RelativeDocumentMoniker": "Chuong2\\BaiTap1.cpp",
+              "ToolTip": "F:\\Moc\\Hoc tap\\OOP\\NASA_78DuyQuyCuongPhuc\\Chuong2\\BaiTap1.cpp",
+              "RelativeToolTip": "Chuong2\\BaiTap1.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-15T08:56:33.658Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaiTap2.cpp",
+              "DocumentMoniker": "F:\\Moc\\Hoc tap\\OOP\\NASA_78DuyQuyCuongPhuc\\Chuong2\\BaiTap2.cpp",
+              "RelativeDocumentMoniker": "Chuong2\\BaiTap2.cpp",
+              "ToolTip": "F:\\Moc\\Hoc tap\\OOP\\NASA_78DuyQuyCuongPhuc\\Chuong2\\BaiTap2.cpp",
+              "RelativeToolTip": "Chuong2\\BaiTap2.cpp",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-14T03:36:39.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "temp_de_thi.ttn",
+              "DocumentMoniker": "F:\\Moc\\Hoc tap\\OOP\\NASA_78DuyQuyCuongPhuc\\Chuong2\\temp_de_thi.ttn",
+              "RelativeDocumentMoniker": "Chuong2\\temp_de_thi.ttn",
+              "ToolTip": "F:\\Moc\\Hoc tap\\OOP\\NASA_78DuyQuyCuongPhuc\\Chuong2\\temp_de_thi.ttn",
+              "RelativeToolTip": "Chuong2\\temp_de_thi.ttn",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-15T08:53:49.966Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

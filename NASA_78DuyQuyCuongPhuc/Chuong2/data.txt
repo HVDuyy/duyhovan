@@ -1,0 +1,4 @@
+This is line 1
+- Line 2 starts with a dash
+- Another line starting with a dash
+Line 4
